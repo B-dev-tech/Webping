@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.env
+web_ping.db
+venv/
+*.log
